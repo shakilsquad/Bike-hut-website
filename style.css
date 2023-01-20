@@ -1,0 +1,23 @@
+
+.bg{
+      background-color: #264653;
+}
+.color{
+      color: #FFFFFF;
+}
+.filter{
+       filter: grayscale(90%);
+}
+.order-list{
+      list-style: none;
+      margin-left: -45px;
+}
+.banner-images-bike{
+      width: 90%;
+}
+.margin-right{
+      margin-right: -120px;
+}
+.happy{
+      margin-right: -28px;
+}
